@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: i was raised by sea side i can't swim yet
+- ⚡ Fun fact: i was raised by sea side & i can't swim
 
 <!---
 jihan2917/jihan2917 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
